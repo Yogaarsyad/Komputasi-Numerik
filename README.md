@@ -12,11 +12,6 @@ Pada Tugas pemrograman A dalam mata kuliah Komputasi Numerik. Tujuan utama dari 
 historis populasi dan pengguna internet di Indonesia.
 
 ---
-
-/*🖥️📚=====================================
-      BAHASA C - KOMPUTASI NUMERIK
-  📈🔢===================================*/
-
 ## Interpolasi Linier:
 ```c
 #include <stdio.h>
